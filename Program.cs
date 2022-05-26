@@ -34,12 +34,12 @@ namespace Ejercicio1
             }
             
 
-            
-            
 
-                
-            
-            
+
+
+
+
+
         }
     }
 }
